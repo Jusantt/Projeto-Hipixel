@@ -2,11 +2,11 @@ Olá!
 Essa é a versão 1.0 do "HiPixel", um site para fazer pixelart. Nessa versão, tudo que eu fiz foi criar a Home, Login, Cadastro, o interno do Sistema e realizar a conexão entre eles.
 Abaixo segue as informações de cada passo que realizei.
 1. Sobre o "LOGIN";
-- Eu utilizei o html para criar a estrutura do site, aplicando o "estilo embutido" com css para personalizar e deixar uma aparência melhor.
+- Utilizei o HTML para criar a estrutura do site, aplicando o "estilo embutido" com css para personalizar e deixar uma aparência melhor.
 - Nessa parte do projeto, eu tive problemas com o uso de margin, por isso acabei optando por usar "br" mesmo. Toda vez que eu mexia com margin, alterava o tamanho do box de login, do botao e dos containers.
 
 2. Sobre o CADASTRO;
-- Utilizei o html novamente para criar toda a estrutura, desde o criamento das inputs para que o usuário possa dar suas respostas, a animação que a label faz de acordo com o preenchimento do usuário etc.
+- Além de usar para estrutura, usei o HTML parar criar as inputs para que o usuário possa dar suas respostas, a animação que a label faz de acordo com o preenchimento do usuário etc.
 - Com MySQL, criei uma nova 'localhost', em seguida um banco de dados para manter as informações do usuário registrado.
 - Com XAMPP, criei meu ambiente de teste para com o projeto.
 - Com PHP, criei um 'config' onde pude criar a conexão entre o site de cadastro e o banco de dados.
