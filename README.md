@@ -31,5 +31,10 @@ INFORMAÇÕES ADICIONAIS;
 
 Link para a versão 2.0: (Em breve)
 
+Link do site no Vercel; (Em breve)
+
+Visualização Prévia; https://www.linkedin.com/posts/julia-santana-08aa212b0_engenhariadesoftware-frontend-css-activity-7191532319415943169-diw6?utm_source=share&utm_medium=member_desktop
+
+
 Obrigada por visualizar meu projeto! :D
 > Julia Santana.
