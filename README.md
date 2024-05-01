@@ -6,7 +6,7 @@ Abaixo segue as informações de cada passo que realizei.
 - Nessa parte do projeto, eu tive problemas com o uso de margin, por isso acabei optando por usar "br" mesmo. Toda vez que eu mexia com margin, alterava o tamanho do box de login, do botao e dos containers.
 
 2. Sobre o CADASTRO;
-- Além de usar para estrutura, usei o HTML parar criar as inputs para que o usuário possa dar suas respostas, a animação que a label faz de acordo com o preenchimento do usuário etc.
+- Além de usar para estrutura, usei o HTML parar criar as inputs para que o usuário possa dar suas respostas, a animação que a label faz de acordo com o preenchimento do usuário etc. Foi onde eu também conectei as páginas umas nas outras.
 - Com MySQL, criei uma nova 'localhost', em seguida um banco de dados para manter as informações do usuário registrado.
 - Com XAMPP, criei meu ambiente de teste para com o projeto.
 - Com PHP, criei um 'config' onde pude criar a conexão entre o site de cadastro e o banco de dados.
